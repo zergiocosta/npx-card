@@ -12,8 +12,8 @@ const boxenOptions = {
 const data = {
   name: chalk.white('Sergio Costa /'),
   handle: chalk.cyan('@zergiocosta'),
-  work: chalk.cyan('Software Architect'),
-  linkedin: chalk.cyan('https://.linkedin.com/in/zergiocosta'),
+  work: chalk.cyan('Mobile Tech Lead @PorterGroup'),
+  linkedin: chalk.cyan('https://linkedin.com/in/zergiocosta'),
   github: chalk.cyan('https://github.com/zergiocosta'),
   web: chalk.cyan('https://blog.sergiocosta.dev/'),
   email: chalk.cyan('sergiocostadev@gmail.com'),
